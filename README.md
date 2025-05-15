@@ -1,16 +1,17 @@
-## Hi there 👋
+## Welcome to my Github Profile!
 
-<!--
-**oskaritauru/oskaritauru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with experience in various programming languages and technologies. I'm committed to continuously expanding my skill set to stay current in the ever-evolving tech landscape.
 
-Here are some ideas to get you started:
+## Programming Languages I Know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **JavaScript**: Proficient in developing interactive web applications using JavaScript and modern frameworks.
+- **React**: Proficient in building dynamic and responsive user interfaces with reusable components using React.
+- **HTML & CSS**: Skilled in creating responsive web designs.
+
+<!-- ## Projects
+
+- [My Portfolio Website](https://your-portfolio-link.com) - A showcase of my projects and skills. -->
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/oskari-t-435b57348/)
